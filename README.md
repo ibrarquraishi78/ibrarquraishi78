@@ -65,17 +65,13 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">Stars</h3>
-      <p>&nbsp;
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrarquraishi78&show_icons=true&locale=en&theme=vision-friendly-dark" alt="ibrarquraishi78" />
-      </p>
+    <td align="center" width="50%">
+      <h3 align="center"><strong>Stars</strong></h3>
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrarquraishi78&show_icons=true&locale=en&theme=vision-friendly-dark" alt="ibrarquraishi78" />
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>  
-      <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarquraishi78&theme=vision-friendly-dark" alt="ibrarquraishi78" />
-      </p>
+    <td align="center" width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarquraishi78&theme=vision-friendly-dark" alt="ibrarquraishi78" />
     </td>
   </tr>
 </table>
