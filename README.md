@@ -11,7 +11,6 @@
 *Web-Developer*
 <br />
 
-
 <!-- About me section -->
 <p align="left">I am a skilled web developer. I focus on creating and maintaining dynamic, high-performance websites, ensuring both functionality and user experience are top-notch. </p>
 
@@ -52,8 +51,6 @@
   </a>
 </div>
 
-
-
 <!-- Github trophies -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center"> 
@@ -63,26 +60,26 @@
 </p>
 <br />
 
-
 <!-- GitHub stats section -->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
+      <h3 align="center">Stars</h3>
+      <p>&nbsp;
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrarquraishi78&show_icons=true&locale=en&theme=vision-friendly-dark" alt="ibrarquraishi78" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>  
+      <p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarquraishi78&theme=vision-friendly-dark" alt="ibrarquraishi78" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">Stars</h3>
-<p>&nbsp;
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrarquraishi78&show_icons=true&locale=en&theme=vision-friendly-dark" alt="ibrarquraishi78" />
-</p>
-</td>
-<td width="50%">
- <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>  
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarquraishi78&theme=vision-friendly-dark" alt="ibrarquraishi78" />
-</p>
-</td>
-</tr>
 <!-- Additional GitHub statistics -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
@@ -117,4 +114,3 @@
 
 <!-- Footer decoration -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
