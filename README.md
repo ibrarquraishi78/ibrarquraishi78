@@ -1,23 +1,37 @@
-# -ibrarquraishi78
+<!--Banner-->
 ![MasterHead](github-header-image.png)
-<!-- Header section -->
-<h1 align="center">Hi 👋, I'm Md Wasim Ibrar</h1>
-<h3 align="center">Web Developer</h3>
 
-<!-- Profile views counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ibrarquraishi78&label=Profile%20views&color=0e75b6&style=flat" alt="ibrarquraishi78" /> 
-</p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!-- Header section -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Md Wasim Ibrar! 
+*Web-Developer*
+<br />
 
 
 <!-- About me section -->
-- 🔭 I’m currently working on **HRMS Dashboard**
-- 🌱 I’m currently learning **new skills and techniques in the field of software development everyday.**
+<p align="left">I am a skilled web developer. I focus on creating and maintaining dynamic, high-performance websites, ensuring both functionality and user experience are top-notch. </p>
 
-<!-- Contact information -->
+- 🌱 I’m currently learning **new skills and techniques in the field of software development everyday.**
 - 📫 How to reach me **business.ibrar@gmail.com**
 - 👨‍💻 All of my projects are available at **abcgithub**
 - ⚡ Fun fact **When I'm not coding, you can find me snapping selfies in interesting locations.**
+
+<!-- Profile views counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ibrarquraishi78&label=Profile%20views&color=0e75b6&style=flat" alt="ibrarquraishi78" style="padding-right:20px;" /> 
+</p>
+
+<!-- Languages and Tools section -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+</p>
 
 <!-- Social media links -->
 <div> 
@@ -38,32 +52,37 @@
   </a>
 </div>
 
-<!-- Languages and Tools section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-</p>
+
 
 <!-- Github trophies -->
-<p align="left"> 
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ibrarquraishi78&theme=radical" alt="ibrarquraishi78" />
   </a> 
 </p>
-
+<br />
 
 
 <!-- GitHub stats section -->
-<h3 align="left">Stars</h3>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+
+<h3 align="center">Stars</h3>
 <p>&nbsp;
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrarquraishi78&show_icons=true&locale=en&theme=vision-friendly-dark" alt="ibrarquraishi78" />
 </p>
+</td>
+<td width="50%">
+ <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>  
 <p>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarquraishi78&theme=vision-friendly-dark" alt="ibrarquraishi78" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarquraishi78&theme=vision-friendly-dark" alt="ibrarquraishi78" />
 </p>
-
+</td>
+</tr>
 <!-- Additional GitHub statistics -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
@@ -94,6 +113,7 @@
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ibrarquraishi78" height="30" width="40" />
   </a>
 </p>
+<br>
 
 <!-- Footer decoration -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
