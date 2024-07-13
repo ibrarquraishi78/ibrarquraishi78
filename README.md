@@ -24,6 +24,22 @@
   <img src="https://komarev.com/ghpvc/?username=ibrarquraishi78&label=Profile%20views&color=0e75b6&style=flat" alt="ibrarquraishi78" style="padding-right:20px;" /> 
 </p>
 
+---
+<!--Languages and Tools Section-->       
+<h2 align="center">Tech Stack & Latest Blogs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+
 <!-- Languages and Tools section -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -32,7 +48,8 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 </p>
 
-<!-- Social media links -->
+<!-- Social media links (not necessary)
+
 <div> 
   <a href="https://twitter.com/Ibrarquraishi78" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
@@ -49,7 +66,7 @@
   <a href="mailto:business.ibrar@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</div>
+</div> -->
 
 <!-- Github trophies -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
